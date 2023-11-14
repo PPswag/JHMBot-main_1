@@ -1,6 +1,6 @@
 # -----------------------< Bot Credentials >-----------------------
-TOKEN = "MTEzOTIwOTk5NDY0NzExNzgyNA.GrNbq5.pbIKcXISAmuzW0C1GkDq4iDM7Cl8sjIzO0cLtU"
-APPLICATION_ID = 1139209994647117824
+TOKEN = "Insert Token"
+APPLICATION_ID = App Id here
 GUILD_ID = 970671883139817532
 PREFIX = "!"
 
